@@ -11,6 +11,7 @@ With that said, <b>WELCOME</b>!
 <details>
   <summary>Keep Reading?</summary>
 
+<&nbsp>
 Here you will find all of my work that began when I started the Data Science bootcamp through Codeup in December of 2020. The content that you will probably want to check out will be my projects (rather than the countless exercises). I've pinned some of my favorites to the front page. Data Science requires life long learning so my goal is to always keep this page updated with the latest and greatest. If you come across some code or something else where you see there can be improvement, let me know! 
 
 Thank you again for stopping by!
