@@ -4,7 +4,7 @@
 
 ### Hi there!
 
-Did you know <i>(according to Google's research)</i> it only takes a person <i>(that'd be you)</i> 50 ms to form an opinion about the quality of a page? That means you already have an opinion based on that Spurs/Texas inspired header above...but I have to show love to my favorite team and birthplace. wink:
+Did you know <i>(according to Google's research)</i> it only takes a person <i>(that'd be you)</i> 50 ms to form an opinion about the quality of a page? That means you already have an opinion based on that Spurs/Texas inspired header above...but I have to show love to my favorite team and birthplace. 😉
 
 With that said, <b>WELCOME</b>!  
 
