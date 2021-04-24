@@ -1,4 +1,4 @@
-![DavidBerchelmann](https://github.com/DBerchelmann/DBerchelmann/blob/main/githeader.png?raw=true)
+![DavidBerchelmann](https://github.com/DBerchelmann/DBerchelmann/blob/main/largergitheader.png?raw=true)
 
 
 ### Hi there 👋
