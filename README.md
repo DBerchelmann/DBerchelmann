@@ -1,5 +1,6 @@
 ![DavidBerchelmann](https://github.com/DBerchelmann/DBerchelmann/blob/main/largergitheader.png?raw=true)
 
+----------
 
 ### Hi there!
 
@@ -14,7 +15,7 @@ Thank you again for stopping by!
 -David
 
 ------------------------
-Consider the stats below my "report card". 
+Consider the stats below my official "git report card". 
 
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dberchelmann&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
