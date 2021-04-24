@@ -23,7 +23,7 @@ Thank you again for stopping by!
  </details>    
     
 ------------------------
-Consider the stats below my official "git report card". 
+Consider the stats below my official <b><i>"git report card"</i></b>
 
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dberchelmann&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
