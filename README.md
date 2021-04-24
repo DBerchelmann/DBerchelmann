@@ -1,4 +1,9 @@
+![DavidBerchelmann](https://github.com/DBerchelmann/DBerchelmann/blob/main/github_banner.gif?raw=true)
+
+
 ### Hi there 👋
+
+
 
 <!--
 **DBerchelmann/DBerchelmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
